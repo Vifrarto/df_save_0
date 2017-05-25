@@ -10,8 +10,28 @@ Font size: 8x12
 Resizing grid to 80x25
 Resizing font to 8x12
 
-New window size: 1366x705
+New window size: 1680x987
 Font size: 8x12
-Resizing grid to 170x58
+Resizing grid to 210x82
+Resizing font to 8x12
+
+New window size: 838x978
+Font size: 8x12
+Resizing grid to 104x81
+Resizing font to 8x12
+
+New window size: 993x978
+Font size: 8x12
+Resizing grid to 124x81
+Resizing font to 8x12
+
+New window size: 838x978
+Font size: 8x12
+Resizing grid to 104x81
+Resizing font to 8x12
+
+New window size: 1680x987
+Font size: 8x12
+Resizing grid to 210x82
 Resizing font to 8x12
 

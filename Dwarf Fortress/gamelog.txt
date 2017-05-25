@@ -177,3 +177,80 @@ A caravan from Rig•th Asrer has arrived.
 Merchants have arrived and are unloading their goods.
 Construct wooden Door (3) has been completed.
 Stray Sow (Tame) has given birth to a piglet.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+x2
+Stray Llama (Tame) has given birth to a baby llama.
+Stray Alpaca (Tame) has given birth to a baby alpaca.
+Stray Sow (Tame) has given birth to a piglet.
+Stray Cat (Tame) has given birth to a kitten.
+`Thanu' Onolbothon, broker cancels Trade at Depot: Interrupted by a giant cardinal.
+The weather has cleared.
+`Oyvor' Bomrekigath, Bookbinder cancels Mill Plants: Needs empty bag.
+x2
+x3
+x4
+`Arne' Feshlogem, manager cancels Construct cloth Bag: Needs 1 unused plant cloth.
+`Oyvor' Bomrekigath, Bookbinder cancels Mill Plants: Needs empty bag.
+x2
+It has started raining.
+The merchants from Rig•th Asrer will be leaving soon.
+The merchants from Rig•th Asrer have embarked on their journey.
+Some migrants have arrived.
+`Tord' Tulonnimak, Farmer cancels Spin Thread: Needs unrotten hair/wool body part.
+The weather has cleared.
+`Aslak' Bertherleth has become a Carpenter.
+Make wooden training spear (2) has been completed.
+You have struck sylvite!
+`Oyvor' Bomrekigath, Bookbinder cancels Mill Plants: Needs empty bag.
+`Ping' Egulfath, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+`Aslak' Bertherleth, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+It has started raining.
+`Oyvor' Bomrekigath, Bookbinder cancels Mill Plants: Needs empty bag.
+Id Asteltirist has grown to become a Cavy Sow.
+`Arne' Feshlogem, manager cancels Construct cloth Bag: Needs 1 unused plant cloth.
+`An' Kolilash has become a Miner.
+`Stian' M”rul•nul has become a Recruit.
+`Ine' Libadubbul has become a Swordsdwarf.
+`Henrik' G†k‹znomal has become a militia commander.
+`Sandra' Udosuzol, Fish Cleaner cancels Process Plants: Needs unrotten processable plants.
+`Pedro' Adilsolon, Glazer cancels Construct cloth Bag: Needs 1 unused plant cloth.
+`An' Kolilash, Miner cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Wall.
+`Oyvor' Bomrekigath, Bookbinder cancels Give Food: No food available.
+`Pedro' Adilsolon, Glazer cancels Give Food: No food available.
+`Even' Urvads krith, Farmer cancels Give Food: No food available.
+`Aslak' Bertherleth, Carpenter cancels Give Food: No food available.
+`Tord' Tulonnimak, Farmer cancels Give Food: No food available.
+`Arne' Feshlogem, manager cancels Give Food: No food available.
+x2
+x3
+`Oyvor' Bomrekigath, Bookbinder cancels Give Food: No food available.
+`Arne' Feshlogem, manager cancels Give Food: No food available.
+`Oyvor' Bomrekigath, Bookbinder cancels Give Food: No food available.
+`Aslak' Bertherleth, Carpenter cancels Give Food: No food available.
+x2
+The weather has cleared.
+`Aslak' Bertherleth, Carpenter cancels Give Food: No food available.
+x2
+`Trong' Becorsodel, expedition leader cancels Give Food: No food available.
+Winter is upon you.
+`Trong' Becorsodel, expedition leader cancels Give Food: No food available.
+x2
+x3
+`Sandra' Udosuzol, Fish Cleaner cancels Give Food: No food available.
+`Tord' Tulonnimak, Farmer cancels Milk Animal: Need empty bucket.
+`Tord' Tulonnimak, Farmer cancels Give Food: No food available.
+`Huy' Zanegtishis, chief medical dwarf cancels Give Food: No food available.
+x2
+`Marta' Egulfath, Brewer cancels Give Food: No food available.
+`Thoa' Nicatrith, Blacksmith cancels Give Food: No food available.
+`Tord' Tulonnimak, Farmer cancels Give Food: No food available.
+`Tord' Tulonnimak, Farmer cancels Plant Seeds: Needs long yam seeds.
+`Thanu' Onolbothon, broker cancels Plant Seeds: Needs long yam seeds.
+`Marta' Egulfath, Brewer cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+It has started raining.
+`Henrik' G†k‹znomal has become a militia commander.
+You have struck onyx!
+`Aslak' Bertherleth, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+`Pedro' Adilsolon, Glazer cancels Construct cloth Bag: Needs 1 unused plant cloth.

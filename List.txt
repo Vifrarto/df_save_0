@@ -1,0 +1,17 @@
+An		- 	Miner
+Tinh	-	Miner
+Trong	-	King
+Henrik 	-	SwordShield -	Militia Commander 
+Ine 	-	SwordShield
+Stian	-	Spear
+Oyvor   - 	Presser/Bookbinder
+Sandra 	-	Shearer/Spinner
+Tord 	-	Potato -> Milker
+Aslak	-	Cook
+Even	-	Brewer
+Arne	-	Manager
+Huy		-	Beekeeper 	-	Surgeon
+Thanu	-	Broker
+Pedro 	-	Glazer
+Marta	-	Weaver
+Thoa	-	Metalsmith
