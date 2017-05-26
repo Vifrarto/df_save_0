@@ -1,3 +1,10 @@
 path fail: dwarf,Construct Building,60,51,138 -> 60,50,138: Id #1155:Path Goal Main Job Building:Station Wagon at 95,70,138
 path fail: dwarf,Construct Building,62,45,138 -> 61,44,138: Id #1159:Path Goal Main Job Building:Station Wagon at 96,74,138
 path fail: dwarf,Construct Building,60,45,138 -> 59,44,138: Id #1154:Path Goal Main Job Building:Station Wagon at 95,72,138
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag

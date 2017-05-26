@@ -254,3 +254,17 @@ It has started raining.
 You have struck onyx!
 `Aslak' Bertherleth, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
 `Pedro' Adilsolon, Glazer cancels Construct cloth Bag: Needs 1 unused plant cloth.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+`Sandra' Udosuzol, Fish Cleaner cancels Process plant to bag: Needs unrotten BAG_ITEM-producing plants.
+Make wooden Bucket (5) has been completed.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Stian' M”rul•nul has become a Speardwarf.
+*** STARTING NEW GAME ***
+** Loading Fortress **
