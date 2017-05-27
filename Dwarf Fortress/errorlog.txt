@@ -8,3 +8,4 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
+path fail: dwarf,Construct Building,71,80,139 -> 72,80,139: Id #1154:Path Goal Main Job Building:Station Mill Building at 67,48,138

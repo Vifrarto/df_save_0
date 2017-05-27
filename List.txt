@@ -15,3 +15,23 @@ Thanu	-	Broker
 Pedro 	-	Glazer
 Marta	-	Weaver
 Thoa	-	Metalsmith
+Knut 	-	Hunter
+Hartmann-	Gem Cutter
+Ping 	-	Brewer
+Salik 	-	Miller/Weaver
+Earn	-	Potter
+Hoa 	-	Cooker/Potato
+Pham	-	Potato
+Thao Vy -	Potato
+Tuyen 	-	Furnace Operator
+André	-	Axe
+Tam		-	Xbow
+Phuong	-	Xbow
+Trung	-	Xbow
+Linh Chi-	Clothmaker
+Fast	-	Glazer
+Thea	-	SwordBuckler
+Vetle	-	Farmer/Potato
+Janne	-	Farmer/Potato
+Jonas	-	Axe
+Lasse	-	Bread/Potato
