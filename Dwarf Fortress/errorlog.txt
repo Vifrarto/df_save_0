@@ -9,3 +9,15 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 path fail: dwarf,Construct Building,71,80,139 -> 72,80,139: Id #1154:Path Goal Main Job Building:Station Mill Building at 67,48,138
+path fail: dwarf,Fell Tree,113,72,139 -> 117,76,139: Id #1383:Path Goal Chop:Station Mill Building at 67,48,138
+path fail: dwarf,Drink,79,43,138 -> 79,39,139: Id #1555:Path Goal Seek Drink Item:Station Mill Building at 67,46,138
+path fail: dwarf,Drink,123,83,138 -> 80,40,139: Id #1380:Path Goal Seek Drink Item:Station Mill Building at 67,47,138
+path fail: dwarf,Drink,123,83,138 -> 80,41,139: Id #1320:Path Goal Seek Drink Item:Station Mill Building at 70,45,138
+path fail: dwarf,Drink,125,85,138 -> 79,40,139: Id #1376:Path Goal Seek Drink Item:Station Mill Building at 69,45,138
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
