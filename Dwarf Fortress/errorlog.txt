@@ -292,3 +292,5 @@ path fail: dwarf,Collect Webs,82,58,138 -> 72,83,85: Id #1790:Path Goal Grab Job
 path fail: dwarf,Construct Building,101,34,139 -> 102,33,139: Id #1549:Path Goal Main Job Building:Station Mill Building at 68,46,138
 path fail: dwarf,Construct Building,145,33,140 -> 147,33,139: Id #1622:Path Goal Main Job Building:Station Mill Building at 69,47,138
 path fail: dwarf,Construct Building,153,47,139 -> 154,47,139: Id #1783:Path Goal Main Job Building:Station Mill Building at 69,48,138
+path fail: dwarf,Plant Seeds,78,43,138 -> 80,38,139: Id #1157:Path Goal Grab Job Resources:Station Mill Building at 67,45,138
+path fail: dwarf,Sleep,56,60,138 -> 56,61,139: Id #1554:Path Goal Sleep Ground:Station Mill Building at 67,45,138
