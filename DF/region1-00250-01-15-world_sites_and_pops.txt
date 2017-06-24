@@ -1,0 +1,924 @@
+Civilized World Population
+
+	13 Dwarves
+	22 Humans
+	36157 Goblins
+	428 Kobolds
+
+	Total: 36620
+
+Sites
+
+1: Uquurusan, "Peakedheart", cave
+	Owner: Gorbis, kobolds
+	Parent Civ: Pubomis, kobolds
+	97 kobolds
+2: Dakonamas Zakgol Geb, "Omendepths the Spite of Denting", cave
+	Owner: Krobojlorer, kobolds
+	Parent Civ: Shrutleelgus, kobolds
+	95 kobolds
+3: Mupfubag Spibsauta, "Juicesewer the Tangled Pit", cave
+	Owner: Sibus, kobolds
+	Parent Civ: Stleerus, kobolds
+	1 plump helmet man
+	2 gorlaks
+	210 kobolds
+4: Sladasedme, "Relievemurk", cave
+	5 large rats
+	340 bats
+	301 cave swallows
+5: éstîl£n, "Cavesaints", fortress
+	1 forgotten beast
+	1 goblin
+6: Ebkakupek, "Joyleap", hamlet
+7: Aslotkedusm, "Hexeagle", dark fortress
+	Owner: The Ruined Monsters, goblins
+	Parent Civ: The Dungeons of Sinew, goblins
+	lord: Olngî Plaguebuds, goblin
+	8318 goblins
+	1 human
+	1 bear devil
+	2052 trolls
+	2052 beak dogs
+	1 goblin outcast
+8: NamalÜth, "Destinedbolts", fortress
+	1 forgotten beast
+9: Azstrogugok, "Devilrained", dark fortress
+	Owner: The Oaken Cruelty, goblins
+	Parent Civ: The Wickedness of Law, goblins
+	lady: Atu Menaceknights, goblin
+	9421 goblins
+	1 cobalt fiend
+	2327 trolls
+	2327 beak dogs
+10: Esemabuth, "Freshgarnished", town
+	Owner: The Green Council, humans
+	Parent Civ: The Handy Empires, humans
+	lord: Sothbod Taperedunite, goblin
+	7776 goblins
+	1 human
+	2 dogs
+	2 cats
+	2 mules
+	2 donkeys
+	15 horses
+	2 cows
+	2 sheep
+	2 pigs
+	2 goats
+	2 chickens
+	2 cavies
+	3 ducks
+	2 water buffalos
+	2 reindeer
+	2 geese
+	2 yaks
+	2 llamas
+	2 alpacas
+	3 guineafowls
+	2 blue peafowls
+	2 turkeys
+	2 rabbits
+	9 cave fish man outcasts
+	185 goblin outcasts
+	23 serpent man outcasts
+	13 olm man outcasts
+	18 reptile man outcasts
+	1 troll outcast
+	1 cave dragon outcast
+	3 dwarf outcasts
+	1 troll of evil outcast
+	14 human outcasts
+	12 kobold outcasts
+11: Titthalåton, "Playedhall", fortress
+	Owner: The Fleshy Midnight, goblins
+	Parent Civ: The Dungeons of Sinew, goblins
+	administrator: Utes Clutchbad, goblin
+	130 goblins
+	18 dogs
+	20 cats
+	2 mules
+	2 donkeys
+	25 horses
+	2 cows
+	2 sheep
+	2 pigs
+	2 goats
+	2 chickens
+	2 cavies
+	2 ducks
+	2 water buffalos
+	2 reindeer
+	2 geese
+	3 yaks
+	2 llamas
+	2 alpacas
+	7 guineafowls
+	2 blue peafowls
+	11 turkeys
+	2 rabbits
+12: Gavaliclo, "Chapelscoured", hamlet
+	Owner: The Society of Lights, humans
+	Parent Civ: The Handy Empires, humans
+	50 goblins
+	11 dogs
+	14 cats
+	2 mules
+	2 donkeys
+	50 horses
+	2 cows
+	2 sheep
+	2 pigs
+	2 goats
+	5 chickens
+	2 cavies
+	2 ducks
+	2 water buffalos
+	2 reindeer
+	2 geese
+	2 yaks
+	2 llamas
+	2 alpacas
+	4 guineafowls
+	8 blue peafowls
+	2 turkeys
+	2 rabbits
+13: Spangazstrog, "Humiddevil", dark fortress
+	Owner: The Tangled Malice, goblins
+	Parent Civ: The Belted Terrors, goblins
+	lady: Xuspgas Owldoom, goblin
+	10005 goblins
+	1 gray brute
+	2502 trolls
+	2502 beak dogs
+14: Zalçsgemur, "Wardedprestige", vault
+	Owner: The Bronze Hips, 
+	25 Valorous Enforcers
+	50 Puppets of Clashheal
+	1 Valorous Harbinger
+15: Zoluthubbul, "Combatvault", vault
+	Owner: The Crested Warrior, 
+	25 Valorous Enforcers
+	50 Puppets of Clashheal
+	1 Valorous Harbinger
+16: Leroino, "Fencedguards", vault
+	Owner: The Clutch of Purity, 
+	25 Valorous Enforcers
+	50 Puppets of Clashheal
+	1 Valorous Harbinger
+17: Strodnosmumu, "Scorpionstroked", dark pits
+	Owner: The Hate of Strikes, goblins
+	Parent Civ: The Wickedness of Law, goblins
+	lord: Estrur Brushedmenace, goblin
+	30 goblins
+18: Bendica§i, "Tributesmiled", tomb
+	Owner: The Neutral Tongs, dwarves
+	Parent Civ: The Admired Whip, dwarves
+19: Thakomlasod, "Mountainrout", tomb
+	Owner: The Band of Girders, humans
+	Parent Civ: The Unions of Drilling, humans
+20: ñsbuxosun, "Evilspurted", camp
+	Owner: The Contingent Evils, goblins
+	23 goblins
+21: Ngerxungdusnu, "Wickedbusts", camp
+	Owner: The Grim Poisons, goblins
+	23 goblins
+22: Lalalobis, "Lalalobis", camp
+	Owner: Pubulukromer, kobolds
+	8 kobolds
+23: Uksoszastrur, "Stolenhag", camp
+	Owner: The Immoral Corridors, goblins
+	21 goblins
+24: Onaitke, "Plantedclustered", camp
+	Owner: The Crazed Alchemies, humans
+	6 goblins
+	1 human
+25: Etheraäna Anaraanice, "Scalddeep the Jade Turquoise", lair
+	2 goblins
+26: Vaficenimo, "Drinkpits", lair
+	1 goblin
+27: Gor Miroth, "The Pit of Denominations", lair
+	1 goblin
+28: Dusmxuslîmod, "The Fat Pits", lair
+	1 goblin
+29: OseÑb Tostgud Zusmob, "Curlshafts the Pool of Clods", lair
+	1 goblin
+30: Fensast Kafit, "The Scar of Pines", lair
+	1 goblin
+31: Cecicaomethu, "The Stunted Hollow", lair
+	1 goblin
+32: Sagamngethac, "Creptcave", lair
+	1 goblin
+33: Geshudnuglush, "Fortressgutters", lair
+	1 goblin
+34: Puwungalka, "Slowdeeps", lair
+	1 kobold
+35: Eyof°ra, "Agecracks", lair
+	1 goblin
+36: Sicicäthutha, "Severmines", lair
+	1 goblin
+37: Tastroloz, "The Poetic Scars", lair
+	1 goblin
+38: Ngaxaosmat, "Quakehearts", lair
+	1 goblin
+39: Godanbora, "Versemines", lair
+	1 goblin
+40: Komomsos, "Throwumbras", lair
+	1 goblin
+41: Lekshash, "Bristlehell", lair
+	1 kobold
+42: Enurecäthutha, "Mistymine", lair
+	1 kobold
+43: Cipiomethu, "Whimshollow", lair
+	1 goblin
+44: Anisoenira, "The Heliotrope Heart", lair
+	1 goblin
+45: Nunïre Esaca, "The Cavern of Columns", lair
+	1 goblin
+46: Ematgalka, "The Cracked Deep", lair
+	1 goblin
+47: Omethu Nicana, "The Hollow of Verses", lair
+	1 goblin
+48: Osnunngogngo, "Ghoulmine", lair
+	1 goblin
+49: Nutosedme, "The Uncommon Murk", lair
+	1 goblin
+50: Ngorubana, "The Pale Holes", lair
+	1 goblin
+51: Tislurkul Danagalka, "Raptorholes the Hopeful Deeps", lair
+	1 goblin
+52: Spîspzospu, "Patternedumbras", lair
+	1 goblin
+53: Meslusodor Stotsnusm, "Seasondeep the Singed Metal", lair
+	1 goblin
+54: Ana Zobo, "The Hole of Blocks", lair
+	1 goblin
+55: Lunisannunór, "The Cloudy Still Crevices", lair
+	1 goblin
+56: Runasimo, "Oldechoes", lair
+	1 goblin
+57: UnilithÇme, "Chastenight", lair
+	1 goblin
+58: Tomcakulur Atuposush, "Sanctumnight the Robust Clashes", lair
+	1 goblin
+59: Kul Sothi, "The Holes of Slinking", lair
+	1 goblin
+60: Rumakon Nosmul Aspsa, "Honorshadows the Canker of Time", lair
+	1 goblin
+61: Moquugalka, "Miredeeps", lair
+	3 reptile men
+62: Entustloz, "The Brutal Scars", lair
+	1 goblin
+63: Isans†rek Obot Shameb, "Stillechoed the Crack of Handling", lair
+	1 goblin
+64: Galirfensast, "Weaverscar", lair
+	1 goblin
+65: Inalacäthutha, "Portentmine", lair
+	1 goblin
+66: Ostrauta Posanulce, "Slitheredpit the Radiant Plunge", lair
+	1 goblin
+67: Ronikshoneth, "The Scalded Hell", lair
+	1 goblin
+68: Loz Utok, "The Scars of Ringing", lair
+	1 goblin
+69: Enilsimo Ruguthret, "Cleanedecho the Stern Whips", lair
+	1 goblin
+70: Telingoggez, "Coastalhole", lair
+	1 goblin
+71: Mäfiomethu, "The Faded Hollow", lair
+	1 human
+72: Gom¢mg¢smer, "The Dour Umbra", lair
+	1 kobold
+73: Nonñesnust, "Flaxhollow", lair
+	1 goblin
+74: Nosmugened, "The Sizzling Depth", lair
+	1 goblin
+75: FacicÇcuthabe, "Broildepth", lair
+	1 goblin
+76: Mukarobot Ilid Orstist, "Sadnesscracks the Ruler of Recluses", lair
+	1 goblin
+77: Momuzg¢smer Mukarzokun, "Cryptumbral the Sad Siege", lair
+	1 goblin
+78: Dodngogngo, "Voicemined", lair
+	1 goblin
+79: Ficemiwami Namamo Tira, "Merchantscarred the Weaver of Sweetness", lair
+	1 kobold
+80: Shedim Onrel, "The Shadow of Exiting", lair
+	1 goblin
+81: Apuutesh, "The Big Crevice", lair
+	1 goblin
+82: Sneloana, "Sadhole", lair
+	1 goblin
+83: Uthroskulur Mestri Atup, "Honornights the Trickery of Robustness", lair
+	1 goblin
+84: Ngostoesnust AspÉd Xom, "Voidhollow the Cavern of Length", lair
+	1 goblin
+85: Eyaf°ra Ayanu B°rare, "Yawncrack the Abyss of Walks", lair
+	1 goblin
+86: Omethu R¢nira, "The Hollows of Wilting", lair
+	1 goblin
+87: Angotloz, "Taxedscarred", lair
+	1 goblin
+88: Amomuobi, "The Strange Shadows", lair
+	1 goblin
+89: BatìkÑs Kal Bal, "Problemcave the Smile of Tone", lair
+	1 goblin
+90: Bakturshoneth, "Jackalhell", lair
+	1 goblin
+91: Dopodsimo, "Practiceechoes", lair
+	1 goblin
+92: Kîshdesoggez, "The Heliotrope Hole", lair
+	1 goblin
+93: Slaruoxut, "The Malodorous Shafts", lair
+	1 goblin
+94: Tangakshedim, "Spotshadow", lair
+	1 goblin
+95: Omristnuglush, "Wildgutters", lair
+	1 goblin
+96: Bukognuglush Shungmageren, "Chokegutters the Disgusting Liberty", lair
+	1 goblin
+97: Avanavuz Arak Tathtat, "Lyricalmined the Shafts of Plunging", lair
+	1 goblin
+98: Nuglush Anan, "The Gutter of Night", lair
+	1 goblin
+99: Suvasamas, "Lustrousdepth", lair
+	1 goblin
+100: Sedastkarnomar, "The Moist Lord-Abyss", lair
+	1 goblin
+101: Gothtefubag, "The Fetid Sewer", lair
+	1 goblin
+102: OtukaspÉd, "Tourcaverns", lair
+	1 goblin
+103: Ostsiusan Kamcafensast, "Breachhearts the Dreamy Scars", lair
+	1 goblin
+104: Zusosmat Osìrusmo, "Flayedheart the Oaken Echoes", lair
+	1 goblin
+105: Sedurthol, "The Emerald Deeps", lair
+	1 goblin
+106: Fikodurrãth Tunomshash, "Glazescarred the Mortal Hell", lair
+	1 kobold
+107: Xemfensast, "The Mythical Scars", lair
+	1 goblin
+108: Ospsosloz, "Truthfulscar", lair
+	1 goblin
+109: Picthamoxut, "Spiralshaft", lair
+	1 goblin
+110: Ayanu Iquila, "The Abyss of Umbras", lair
+	1 goblin
+111: Lenshamoggez Nunór Tenshed, "Denhole the Crevice of Chance", lair
+	1 goblin
+112: Suttuth Utesh •od, "Bonesdark the Crevice of Anguish", lair
+	1 goblin
+113: Muslarusmo, "The Dishonest Echo", lair
+	1 goblin
+114: Lelumfullutthol, "The Waning Rabble-Deeps", lair
+	1 goblin
+115: Sedme Sluste, "The Murk of Bile", lair
+	1 goblin
+116: Kabungogngo Ngosla Bagsnub, "Townmined the Mountain of Wonder", lair
+	1 goblin
+117: Bçlalosanene, "Pineechoes", lair
+	1 goblin
+118: Nuskobora, "Failuremine", lair
+	1 goblin
+119: Kemussedme, "The Delightful Murk", lair
+	2 trolls
+120: Rusmo ôbtasp, "The Echo of Rivers", lair
+	1 goblin
+121: Quabsimo, "The Granite Echoes", lair
+	1 goblin
+122: Ateramari Zamesi Rane, "Clouddark the Alchemies of Passing", lair
+	1 goblin
+123: Mado Moslâx, "The Gloom of Tears", lair
+	1 goblin
+124: Othsal Mis, "The Sewers of Haze", lair
+	1 goblin
+125: Nubpousu Utesh Upi, "Clamhollow the Crevice of Priests", lair
+	1 goblin
+126: Ogusploz SasluÑb, "Portentscarred the Dented Shafts", lair
+	1 goblin
+127: Isdenbothon, "The Watchful Murk", lair
+	1 goblin
+128: Alakshedim, "Aceshadows", lair
+	1 goblin
+129: Ustomoxut Penathranmadum, "Tarshafts the Glittery Dawn-Tears", lair
+	1 goblin
+130: Cusithfubag, "The Embraced Sewer", lair
+	1 goblin
+131: Caretha Fana, "The Sewer of Drains", lair
+	1 goblin
+132: ImadulithÇme, "Toadnight", lair
+	2 trolls
+133: Nulawami äna Irithe, "Buryscar the Deeps of Attacking", lair
+	1 goblin
+134: Birodsasmcith Bushik Dugvur, "Strengthgutters the Extrication of Dwindling", lair
+	1 goblin
+135: Tusnungkol, "The Diamond Crack", lair
+	1 goblin
+136: Malduzanu Spuspsotuneg, "Shocknights the Spotted Bow", lair
+	1 goblin
+137: Ibels†rek Shash Ser, "Zenithechoed the Hell of Heads", lair
+	1 goblin
+138: Corapecona, "The Incinerated Holes", lair
+	1 goblin
+139: Ishdemosman, "Brigandshadows", lair
+	1 goblin
+140: Aquanef°ra, "Dabblingcracked", lair
+	5 trolls
+141: Dasnuranu Slîmod Toslu, "Crumblednight the Pits of Jade", lair
+	1 goblin
+142: Thçficuthabe, "Belteddepth", lair
+	1 goblin
+143: Xoduakon, "Blizzardshadow", lair
+	1 goblin
+144: Gasolanan Evon Shasar, "Breathnight the Lover of Fright", lair
+	1 goblin
+145: Ongaomo Osa ñmu, "Chancedcaves the Sourness of Nourishment", lair
+	1 goblin
+146: StratÉbzospu, "Breachedumbras", lair
+	1 goblin
+147: Bavastothsal, "Glidedsewer", lair
+	1 goblin
+148: Slosmrezosmat, "Weirdheart", lair
+	1 goblin
+149: Xostzospu Ngomstu Nom, "Twistedumbral the Stone of Rot", lair
+	1 goblin
+150: Usugened, "Cudgeldepths", lair
+	1 goblin
+151: Ilicafafi, "Perplexedgutters", lair
+	1 goblin
+152: Serocfubag, "The Blighted Sewers", lair
+	1 goblin
+153: Nethavuz, "Balancemine", lair
+	1 goblin
+154: Caspatuth, "Heavendark", lair
+	1 goblin
+155: Nanicuthabe, "Toedepth", lair
+	1 goblin
+156: Uknolrushan Shessatemat, "Nosecavern the Frilly Crack", lair
+	1 goblin
+157: Éxstutsodor, "Lancedeep", lair
+	1 goblin
+158: Rithesaisa, "The Wicked Shaft", lair
+	1 goblin
+159: Spâgspungloz, "Tenderscar", lair
+	1 goblin
+160: Osloxon, "The Defensive Gutter", lair
+	1 human
+161: Kangor, "The Tired Pits", lair
+	1 goblin
+162: Slîmod Goslust, "The Pit of Blots", lair
+	1 goblin
+163: Sodor Oxstrum, "The Deeps of Sliding", lair
+	1 goblin
+164: Olngîkol UstrÉomngo, "Monstrouscracked the Foolish Kindling", lair
+	1 goblin
+165: Amatisanene, "Crazedechoes", lair
+	1 goblin
+166: Bukogthol EgstÜkzàvut, "Chokedeeps the Eviscerated Dread", lair
+	1 goblin
+167: Ngal†k Rìber, "The Abyss of Wiping", lair
+	1 goblin
+168: BalanemÇfaòo Fiviobi, "Achehell the Furious Shadow", lair
+	1 dwarf
+169: Muboemat Mogastkima, "Mindcracks the Eviscerated Pearls", lair
+	1 dwarf
+170: Shasiksimo Gethdazutesh Samo, "Shriveledecho the Splattered Crevices of Handling", lair
+	1 goblin
+171: G¢smer Asrer, "The Umbra of Appearances", lair
+	1 dwarf
+172: Unobamas Nulralavuz, "Mellowdepths the Stable Mines", lair
+	1 goblin
+173: Idasanene Cafafi C¢ce, "Dutyechoes the Gutters of Hide", lair
+	1 goblin
+174: Idabanimo, "The Comedic Pit", lair
+	1 goblin
+175: Ashmìnkor, "Shadecaverns", lair
+	1 troll of evil
+176: Rustuunu, "The Fated Skull", lair
+	1 troll of evil
+177: Rushan Cish, "The Cavern of Ashes", lair
+	1 troll of evil
+178: Ayanurethi, "The Abyssal Death", lair
+	1 starved creature
+179: Rushangogol, "The Cavernous Crypts", lair
+	1 troll of evil
+180: ¢dshedim G¢smerbothon, "Tunnelshadow the Umbral Murk", lair
+	1 gloom woman
+181: Akonzutìsp Bozurmudo, "Shadowtunneled the Tenebrous Bone", lair
+	1 troll of evil
+182: Nula Rethi, "The Burial of Dying", lair
+	1 troll of evil
+183: Rofelanunïre, "Fatalcavern", lair
+	1 night creature
+184: Vesh G¢smer, "The Dust of Umbras", lair
+	1 night creature
+185: Nelaranula, "Tombsbury", lair
+	1 troll of evil
+186: àlaspÉd Ozrankung, "Faintcavern the Shady Phantom", lair
+	1 troll of evil
+187: Cishtacnu Rushansath, "Ashenghost the Cavernous Skull", lair
+	1 troll of evil
+188: Gujegdisem, "Tunneldusks", lair
+	1 troll of evil
+189: Warospura, "Phantomdeath", lair
+	1 night creature
+190: Ac°nawara, "The Faint Twilight", lair
+	1 night creature
+191: Atirsimo, "Timeecho", lair
+	1 troll
+192: Muthroosman, "Deadshadow", lair
+	1 troll of evil
+193: Nunïrenula, "Cavernbury", lair
+	1 gloom woman
+194: Stospspos, "The Fatal Abysses", lair
+	1 gloom woman
+195: Rushan Omsos, "The Cavern of Umbras", lair
+	1 troll of evil
+196: Tacnu Bekor, "The Ghost of Twilight", lair
+	1 troll of evil
+197: Ayilogaretho äòeobi, "Chantcaves the Tempted Shadows", lair
+	1 human
+198: Ocelomoth, "Dusttombs", lair
+	1 troll of evil
+199: Unoanu, "Burynights", lair
+	1 troll of evil
+200: Saquonomar, "The Faint Abyss", lair
+	1 troll of evil
+201: Gorbeomsos, "Shadyumbral", lair
+	1 troll of evil
+202: Bohakupek, "The Aqua Leap", lair
+	1 cyclops
+203: Belallek, "The Famous Bristles", lair
+	1 giant
+204: Stâlmithlek Fenokedâm, "Tressedbristles the Sable Key", lair
+	1 ettin
+205: Niredip°, "Guisescorched", labyrinth
+	1 minotaur
+206: Nidelanula, "Duskburies", lair
+	1 starved creature
+207: Aquiyaiquila, "Fatedumbras", lair
+	1 troll of evil
+208: Odrozvesh, "The Fatal Dusts", lair
+	1 gloom woman
+209: Donugamo, "Burialgraves", lair
+	1 gloom woman
+210: Lomothdisem Rushancishgamo, "Tombsdusk the Cavernous Ashen Grave", lair
+	1 night creature
+211: Imerinula Meli Rupola, "Ashburies the Murk of Urns", lair
+	1 crone of evil
+212: Lozuzesmstum, "Dustdusk", lair
+	1 wicked crone
+213: Odroztarem Ashmìnbaros, "Fatalfated the Shady Funeral", lair
+	1 night monster
+214: Orguzutìsp EbrÜlozu, "Gravetunnels the Murky Dusts", lair
+	1 gloom woman
+215: Thatemeaquiya LithÇme Imeri, "Tunnelfated the Night of Ashes", lair
+	1 moon creature
+216: Disemgujeg Rushan Kulur, "Dusktunneled the Cavern of Nights", lair
+	1 starved creature
+217: Nunïre Imeri, "The Cavern of Ash", lair
+	1 troll of evil
+218: Rengresm Ongkosm Umung, "Scaleflowers the Clam of Birds", shrine
+	1 brush titan
+219: Nonñsostux, "The Flaxen Vegetation", shrine
+	1 savanna titan
+220: Fçmaecan¢ Aveila, "Hoofstrong the Wooden Star", lair
+	1 roc
+221: Kasakul Lekla Juwog, "Controlquests the Controller of Mucks", lair
+	1 hydra
+222: Ubbulbidok, "Vaultacted", fortress
+	Owner: The Palace of Mines, dwarves
+	Parent Civ: The Admired Whip, dwarves
+
+Outdoor Animal Populations (Including Undead)
+	695 sea serpents
+	13205 gigantic squids
+	6255 squid men
+	5100 sea otters
+	10425 giant nautiluses
+	3475 nautilus men
+	1200 giant harp seals
+	540 harp seal men
+	900 harp seals
+	1080 giant elephant seals
+	480 elephant seal men
+	1200 elephant seals
+	13205 giant sperm whales
+	4170 sperm whale men
+	14595 sperm whales
+	224485 giant horseshoe crabs
+	6950 horseshoe crab men
+	248810 horseshoe crabs
+	252285 giant sponges
+	6950 sponge men
+	14595 giant orcas
+	6950 orca men
+	16680 orcas
+	10425 giant cuttlefish
+	5560 cuttlefish men
+	600 giant leopard seals
+	300 leopard seal men
+	1140 leopard seals
+	13205 giant crabs
+	5560 crab men
+	238385 crabs
+	13205 giant octopuses
+	6255 octopus men
+	45870 octopuses
+	1560 giant narwhals
+	360 narwhal men
+	1620 narwhals
+	18070 bluefin tuna
+	4720 great barracudas
+	11600 halibut
+	9525 marlins
+	12065 swordfish
+	19050 ocean sunfish
+	17780 bluefish
+	5605 giant groupers
+	18415 opah
+	9600 cod
+	8850 milkfish
+	8400 conger eels
+	10400 sturgeons
+	4425 coelacanths
+	6785 stingrays
+	4720 manta rays
+	10160 common skates
+	14605 angelsharks
+	13335 hammerhead sharks
+	15985 blue sharks
+	7375 whitetip reef sharks
+	5015 blacktip reef sharks
+	4720 bull sharks
+	7375 tiger sharks
+	9525 longfin mako sharks
+	16510 shortfin mako sharks
+	8500 nurse sharks
+	5780 basking sharks
+	8555 whale sharks
+	14605 spotted wobbegongs
+	14605 spiny dogfish
+	13900 frill sharks
+	17780 great white sharks
+	6000 sea lampreys
+	1080 giant walruss
+	360 walrus men
+	1440 walruses
+	5440 giant moon snails
+	3060 moon snail men
+	18765 giant albatrosses
+	695 albatross men
+	12510 albatrosses
+	15985 giant ospreys
+	5560 osprey men
+	18884 ospreys
+	1980 giant puffins
+	300 puffin men
+	1860 puffins
+	1680 giant penguins
+	540 penguin men
+	1560 emperor penguins
+	1500 little penguins
+	1140 penguins
+	483 armadillos
+	28 gazelles
+	1985 kestrels
+	188 cheetahs
+	5785 dingoes
+	82 hyenas
+	91 leopards
+	92 jaguars
+	77 lions
+	252 pangolins
+	23 monitor lizards
+	197 mongooses
+	2014 eagles
+	58 aardvarks
+	52 giraffes
+	4571 rattlesnakes
+	54 gray langurs
+	40 jackals
+	77 cougars
+	10 tigers
+	46 rhinoceroses
+	18 saltwater crocodiles
+	24 anacondas
+	38 water buffalos
+	3182 ducks
+	4729 white storks
+	102 impalas
+	91 giant tortoises
+	66 adders
+	1036 opossums
+	469 muskoxen
+	642 badgers
+	602 ibexes
+	1771 weasels
+	77 desert tortoises
+	352 ostriches
+	247 coyotes
+	27 ocelots
+	29 bonobos
+	317 wolves
+	99 black mambas
+	2874 porcupines
+	2628 echidnas
+	2935 kangaroos
+	7291 wild boars
+	658 elk
+	124 honey badgers
+	26 chimpanzees
+	170 warthogs
+	25 elephants
+	2172 rabbits
+	210 cavies
+	332 emus
+	2306 kakapo
+	101987 ravens
+	517 kiwis
+	7137 peregrine falcons
+	27 swans
+	4796 geese
+	4290 buzzards
+	3974 capybaras
+	1183 alligators
+	4393 barn owls
+	586 hoary marmots
+	782 yaks
+	66 wolverines
+	626 mountain goats
+	619 kea
+	675 chinchillas
+	612 kingsnakes
+	622 wombats
+	21 one-humped camels
+	22 gila monsters
+	64 two-humped camels
+	16 vultures
+	147 rhesus macaques
+	1157 hares
+	71 skunks
+	18 turkeys
+	26 horses
+	916 groundhogs
+	29 coatis
+	15 red pandas
+	26 moose
+	13 foxes
+	28 deer
+	2 pandas
+	3 bobcats
+	17 raccoons
+	3 black bears
+	3 grizzly bears
+	27 great horned owls
+	303715 squids
+	20400 sea nettle jellyfish
+	112400 mackerel
+	152320 flounders
+	129200 sole
+	105020 white-spotted puffers
+	98530 glasseye
+	175260 seahorses
+	143200 hake
+	176800 steelhead trout
+	306340 anchovies
+	138800 shads
+	390400 herrings
+	124100 spotted ratfish
+	220345 thornback rays
+	165100 bat rays
+	88400 brook lampreys
+	182800 hagfish
+	138650 clownfish
+	138720 salmon
+	301630 nautiluses
+	300935 cuttlefish
+	29966 pond turtles
+	11545 chameleons
+	124938 monarch butterflies
+	1305153 flies
+	1177673 mosquitos
+	77667 wrens
+	80016 sparrows
+	110518 toads
+	62222 hamsters
+	92664 rats
+	84119 dragonflies
+	73196 large roaches
+	107397 lungfish
+	108318 skinks
+	115056 damselflies
+	27597 magpies
+	17253 peach-faced lovebirds
+	126096 crows
+	43403 blue jays
+	870 leopard geckos
+	86347 green tree frogs
+	15192 hedgehogs
+	113432 lizards
+	11793 mantises
+	101550 moths
+	4510 parakeets
+	40198 grackles
+	30733 cardinals
+	77954 red-winged blackbirds
+	82728 fireflies
+	79597 jumping spiders
+	989 bark scorpions
+	295 fairies
+	338 fluffy wamblers
+	1077 cockatiels
+	257 flying squirrels
+	301 chipmunks
+	253 red squirrels
+	473 gray squirrels
+	483 bushtits
+	Unnumbered oysters
+	Unnumbered mussels
+	Unnumbered moon snails
+	Unnumbered snails
+	Unnumbered slugs
+	Unnumbered beetles
+	Unnumbered thrips
+	Unnumbered lice
+	Unnumbered ticks
+	Unnumbered worms
+	Unnumbered honey bees
+	Unnumbered bumblebees
+	Unnumbered ants
+	Unnumbered termites
+
+Underground Animal Populations (Including Undead)
+	34956 gorlaks
+	19827 trolls
+	5829 giant cave spiders
+	9334 dralthas
+	1218 gremlins
+	13589 giant earthworms
+	12904 naked mole dogs
+	27732 giant moles
+	9873 large rats
+	12259 giant bats
+	25988 giant cave toads
+	26822 cave crocodiles
+	24576 giant olms
+	42961 pond grabbers
+	37741 elk birds
+	10265 helmet snakes
+	15103 troglodytes
+	19143 giant cave swallows
+	8961 giant rats
+	6666 blind cave bears
+	10784 drunians
+	24017 maneras
+	25647 reachers
+	14320 blind cave ogres
+	9834 jabberers
+	25684 voracious cave crawlers
+	19958 molemarians
+	42660 plump helmet men
+	447412 crundles
+	43982 rutherers
+	37626 bugbats
+	22974 blood men
+	458811 creeping eyes
+	4356 cave dragons
+	89582 hungry heads
+	22906 mud men
+	444396 cave blobs
+	389733 flesh balls
+	45014 floating guts
+	952 iron men
+	25350 fire men
+	22491 magma men
+	45057 magma crabs
+	25041 fire imps
+	Unnumbered white devils
+	Unnumbered green devils
+	Unnumbered shadow ghosts
+	Unnumbered gray brutes
+	Unnumbered horned brutes
+	Unnumbered dimetrodon devils
+	Unnumbered flare fiends
+	Unnumbered monsters of carnelian
+	Unnumbered loris fiends
+	Unnumbered theropod demons
+	Unnumbered banshees of steam
+	Unnumbered brutes of glass
+	Unnumbered lizard brutes
+	Unnumbered cinders fiends
+	Unnumbered skinless fiends
+	Unnumbered coyote devils
+	589786 bats
+	557105 cave swallows
+	719082 cave spiders
+	416698 olms
+	628768 cap hoppers
+	642218 cave lobsters
+	679461 cave fish
+	505160 purring maggots
+	423417 creepy crawlers
+	382099 fire snakes
